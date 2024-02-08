@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SerialToKeyboard": {
+      "commandName": "Project",
+      "hotReloadEnabled": true,
+      "nativeDebugging": true
+    }
+  }
+}
